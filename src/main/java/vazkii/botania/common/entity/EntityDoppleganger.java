@@ -80,7 +80,7 @@ public class EntityDoppleganger extends EntityCreature implements IBotaniaBossWi
 
 	public static final int SPAWN_TICKS = 100;
 	private static final float RANGE = 12F;
-	private static final float MAX_HP = 300F;
+	private static final float MAX_HP = 1F;
 
 	public static final int MOB_SPAWN_START_TICKS = 20;
 	public static final int MOB_SPAWN_END_TICKS = 80;
